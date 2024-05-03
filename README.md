@@ -1,7 +1,6 @@
 # APLICACION BANCARIA Y DE COMPRAS
 
 Este repositorio cuenta con dos aplicaciones: **aplicación bancaria** y **aplicación de compras**.
-_NOTA: Son dos aplicaciones diferentes en una es la aplicación bancaria **appBancaria** y la aplicación de compras es **appCompras**_
 
 ## Aplicación bancaria
 
